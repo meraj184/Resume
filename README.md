@@ -1,2 +1,3 @@
 # Resume
-Capston project 1 - Resume
+Capstone project 1 - Resume
+Author - Meraj Alam
